@@ -7,7 +7,6 @@
 ![Wayfair_8](https://user-images.githubusercontent.com/31972277/220376068-c84c06e8-b263-420f-a2ad-61131238d63d.png)
 ![Wayfair_9](https://user-images.githubusercontent.com/31972277/220376134-308cdc0c-74a4-48ae-8d66-6876fe823d6e.png)
 ![Wayfair_10](https://user-images.githubusercontent.com/31972277/220376149-24916d04-866a-44d4-9d7c-3efcdc58a086.png)
-![Wayfair_11](https://user-images.githubusercontent.com/31972277/220376164-3bc6431f-eba7-4074-b683-1b11f6e83015.png)
 ![Wayfair_12](https://user-images.githubusercontent.com/31972277/220376196-30c77861-4b53-4f45-a393-bfeb66dfb306.png)
 ![Wayfair_13](https://user-images.githubusercontent.com/31972277/220376198-e1f9265f-d248-4bca-8720-b2242b41f854.png)
 ![Wayfair_14](https://user-images.githubusercontent.com/31972277/220376199-9d7b7582-b02c-4b78-bc9a-06b724ecb803.png)
